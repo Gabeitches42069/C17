@@ -1,0 +1,38 @@
+table,th,td{
+    border: 1px solid black;
+    border-collapse:collapse ;
+}
+.subject{
+    text-align: center;
+}
+
+.grade1 {
+    background-color: red;
+}
+.grade2 {
+    background-color: orange;
+}
+.grade3 {
+    background-color: palegreen;
+}
+.grade4 {
+    background-color: red;
+}
+.grade5 {
+    background-color: yellow;
+}
+.grade6 {
+    background-color: yellow;
+}
+.grade7 {
+    background-color: orange;
+}
+.grade8 {
+    background-color: palegreen;
+}
+.grade9 {
+    background-color: palegreen;
+}
+.grade10 {
+    background-color: palegreen;
+}
